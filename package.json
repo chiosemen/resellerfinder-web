@@ -1,0 +1,11 @@
+{
+  "name": "resellerfinder-web",
+  "version": "1.0.0",
+  "description": "resellerfinder.io - Premium reseller arbitrage and deal discovery platform",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
